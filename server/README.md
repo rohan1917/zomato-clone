@@ -36,3 +36,9 @@ Session Based Appln
                  >> JWT will be stored in client or endusers browser (Cookise, localstorage)     
 
                  >> JWT also has expiration it depends on business perspective (1 day | 10 day || 10 years)  
+
+
+
+hash & salting
+
+devtown123$ => hash() => @edrtmkbka$3372y* => salt(5) => hhoabkan@$%$3u1nknk11j
